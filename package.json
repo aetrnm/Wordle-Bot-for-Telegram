@@ -1,0 +1,14 @@
+{
+    "name": "worlde",
+    "version": "1.0.0",
+    "description": "Bot for Telegram which lets you play Wordle game",
+    "scripts": {
+        "build": "tsc",
+        "start": "node .\\build\\bot.js"
+    },
+    "author": "Hnatkovskyi Oleh",
+    "license": "ISC",
+    "dependencies": {
+        "grammy": "^1.7.3"
+    }
+}
